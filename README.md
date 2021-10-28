@@ -1,8 +1,8 @@
-## URL: https://e-commerce-api-einhause.herokuapp.com/
+### URL: https://e-commerce-api-einhause.herokuapp.com/
 
 ## An e-commerce API with CRUD functionality, authentication, authorization, and image uploading
 
-## Built with the following tech stack:
+#### Built with the following tech stack:
 
 - Node.js
 - Express.js for building API routes
